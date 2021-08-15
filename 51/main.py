@@ -5,7 +5,7 @@ PROMISED_DOWN = 600
 PROMISED_UP = 600
 TWITTER_EMAIL = "почта"
 TWITTER_PASSWORD = "пароль"
-
+#test
 
 
 class InternetSpeedTwitterBot:
